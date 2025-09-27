@@ -8,11 +8,11 @@ The framework integrates five key components:
 4. **Ensemble Adversarial Training** - Robustness against white/black-box attacks
 5. **SHAP Explanations** - Model interpretability and transparency
 ## Key Features
-- ✅ Adversarial resilience (Auto-PGD, Square Attack, CW, DeepFool)
-- ✅ Real-time edge deployment (Jetson Nano, Raspberry Pi compatible)
-- ✅ SHAP-based interpretability (local and global explanations)
-- ✅ Protocol-aware design for IoT/IIoT traffic
-- ✅ Compliance with GDPR, HIPAA, NISTIR 8259
+- Adversarial resilience (Auto-PGD, Square Attack, CW, DeepFool)
+- Real-time edge deployment (Jetson Nano, Raspberry Pi compatible)
+- SHAP-based interpretability (local and global explanations)
+- Protocol-aware design for IoT/IIoT traffic
+- Compliance with GDPR, HIPAA, NISTIR 8259
   ## Datasets Supported
 - Edge-IIoTset
 - CIC-IoT2023
